@@ -26,4 +26,12 @@ dossier = "LE_DOSSIER_RACINE_D_UPLOAD"
 Il suffit donc d'éditer le script avec vos éléments de configuration, puis simplement de l'exécuter.
 Ce script a été pensé pour être automatisable avec un gestionnaire de tâches (pas d'action à effectuer pendant l'exécution du script).
 
+Liste des points a optimiser :
+- Prévoir le cas où le serveur FTP ne répond pas.
+- Sortir la réponse du script dans un fichier de log.
+
+Evolution possible dans une future version :
+- Pouvoir à souhait, de supprimer les anciens backup de plus de X jours.
+
+
 Olivier IGUAL
