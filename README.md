@@ -10,8 +10,8 @@ Il affiche également quelques informations (date, message de bienvenue du FTP, 
 
 Le script est conçu de façon assez modulable, l'ensemble des éléments de paramétrages sont des variables (adresse ftp, login/password, fichier à sauvergarder, dossier racine d'upload).
 
-A vous de modifier les variables selon votre souhait.
-Voici la liste des variable à modifier :
+A vous de modifier les variables selon votre souhait. Voici la liste des variable à modifier :
+
 fichier = "FICHIER_A_SAUVERGARDER"
 serveur = "ADDRESSE_DE_VOTRE_SERVEUR"
 utilisateur = "VOTRE_NOM_D_UTILISATEUR"
