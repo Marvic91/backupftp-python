@@ -10,4 +10,4 @@ A vous de modifier les variables selon votre souhait.
 
 Le script utilise une condition permettant de vérifier que le fichier à backuper existe bien, et vous informe si ce n'est pas le cas.
 
-# Olivier IGUAL
+Olivier IGUAL
