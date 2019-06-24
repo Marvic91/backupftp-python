@@ -31,7 +31,7 @@ Liste des points a optimiser :
 - Sortir la réponse du script dans un fichier de log.
 
 Evolution possible dans une future version :
-- Pouvoir à souhait, de supprimer les anciens backup de plus de X jours.
+- Pouvoir à souhait (via configuration dans le script, toujours de manière modulable via une variable) supprimer les anciens backup de plus de X jours.
 
 
 Olivier IGUAL
