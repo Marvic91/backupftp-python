@@ -13,9 +13,13 @@ Le script est conçu de façon assez modulable, l'ensemble des éléments de par
 A vous de modifier les variables selon votre souhait. Voici la liste des variable à modifier :
 
 fichier = "FICHIER_A_SAUVERGARDER"
+
 serveur = "ADDRESSE_DE_VOTRE_SERVEUR"
+
 utilisateur = "VOTRE_NOM_D_UTILISATEUR"
+
 motdepasse = "VOTRE_MOTDEPASSE"
+
 dossier = "LE_DOSSIER_RACINE_D_UPLOAD"
 
 Il suffit donc d'éditer le script avec vos éléments de configuration, puis simplement de l'exécuter.
