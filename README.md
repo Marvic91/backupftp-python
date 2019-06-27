@@ -5,7 +5,7 @@ Dans le cadre de ma formation Openclassrooms, j'ai écrit un script Python afin 
 
 Le script utilise une condition permettant de vérifier que le fichier à backuper existe bien (et dans ce cas, il s'exécute), et vous informe si ce n'est pas le cas.
 
-Lors du backup, lee script viendra, dans un dossier d'upload défini à l'avance, creer un sous dossier avec la date et l'heure du backup, permettant de creer un historique de backup.
+Lors du backup, le script viendra, dans un dossier d'upload défini à l'avance, creer un sous dossier avec la date et l'heure du backup, permettant de creer un historique de backup.
 
 Il affiche également quelques informations (date, message de bienvenue du FTP, contenu des dossiers avant et après backup...)
 
