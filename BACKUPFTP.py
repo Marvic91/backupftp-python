@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Voici un script Python qui va sauvergarder sur un serveur FTP
 # un fichier choisi dans un dossier d'upload choisi
 # Le script classe les sauvegardes dans un dossier daté du jour et de l'heure du transfert
